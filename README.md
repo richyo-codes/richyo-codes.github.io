@@ -10,7 +10,7 @@ Run `python3 -m http.server 4588 --bind 127.0.0.1` from this directory and open 
 
 Create the public GitHub repository `richyo-codes/richyo-codes.github.io`, push this repository's `main` branch, then choose **Settings → Pages → Deploy from a branch → main → / (root)**.
 
-The site will live at https://richyo-codes.github.io/. This is separate from the `richyo-codes/richyo-codes` profile README repository. Each linked app keeps its existing project repository and Pages deployment.
+The site will live at https://richyo-codes.github.io/. Each linked app keeps its existing project repository and Pages deployment.
 
 ## Edit
 
